@@ -1,0 +1,2 @@
+# Main verifier / 主検算
+numpy

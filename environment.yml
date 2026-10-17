@@ -1,5 +1,5 @@
-# Computing environment (conda-forge).  The results in this repository were obtained with SageMath 10.9 / Python 3.12.
-#   micromamba create -n rank112 -f environment.yml && micromamba run -n rank112 python verify/01_basic.py
+# For certificate generation and supplementary computations.
+# 検証用データの生成と補足計算用。主検算は requirements-verify.txt を使用。
 name: rank112
 channels:
   - conda-forge

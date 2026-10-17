@@ -20,6 +20,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-This license applies to the code in verify/.  The text and data in this
-repository (README*.md, docs/, data/) are licensed under CC BY 4.0:
-https://creativecommons.org/licenses/by/4.0/
+This MIT license applies to the code in code/ and lean/ (including .lean source files).
+Text and data (README*.md, paper/, data/, certificates/, excluding code) are
+licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+Third-party dependencies retain their own licenses and are not bundled here.

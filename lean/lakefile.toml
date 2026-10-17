@@ -1,0 +1,14 @@
+name = "EEUL"
+version = "0.1.0"
+defaultTargets = ["EEUL"]
+
+[leanOptions]
+autoImplicit = false
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "v4.34.1"
+
+[[lean_lib]]
+name = "EEUL"
